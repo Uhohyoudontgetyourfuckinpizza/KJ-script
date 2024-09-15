@@ -112,7 +112,7 @@ findGuiAndSetText()
 
 --[[Move 1]]
 
-local animationId = 10468665991
+local animationId = 78241396554565
 
 
 local player = game.Players.LocalPlayer
@@ -170,7 +170,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 10466974800
+local animationId = 105501005352541
 
 
 local player = game.Players.LocalPlayer
@@ -228,7 +228,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 10471336737
+local animationId = 88238619074157
 
 
 local player = game.Players.LocalPlayer
@@ -293,7 +293,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 12510170988
+local animationId = 119392462013136
 
 
 local player = game.Players.LocalPlayer
