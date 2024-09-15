@@ -13,7 +13,7 @@ local baseButton = hotbarFrame:FindFirstChild("1").Base
 local ToolName = baseButton.ToolName
 
 
-ToolName.Text = "Black flash"
+ToolName.Text = "Move1"
 
 
 local player = game.Players.LocalPlayer
@@ -31,7 +31,7 @@ local baseButton = hotbarFrame:FindFirstChild("2").Base
 local ToolName = baseButton.ToolName
 
 
-ToolName.Text = "Ravage"
+ToolName.Text = "Move2"
 
 
 local player = game.Players.LocalPlayer
@@ -49,7 +49,7 @@ local baseButton = hotbarFrame:FindFirstChild("3").Base
 local ToolName = baseButton.ToolName
 
 
-ToolName.Text = "Swift kick"
+ToolName.Text = "Move3"
 
 
 local player = game.Players.LocalPlayer
@@ -67,7 +67,7 @@ local baseButton = hotbarFrame:FindFirstChild("4").Base
 local ToolName = baseButton.ToolName
 
 
-ToolName.Text = "Collertal"
+ToolName.Text = "Move4"
 
 
 local Players = game:GetService("Players")
@@ -91,7 +91,7 @@ local function findGuiAndSetText()
 
             if textLabel then
 
-                textLabel.Text = "series"
+                textLabel.Text = "???"
 
             end
 
@@ -110,7 +110,7 @@ findGuiAndSetText()
 
 --[[Move 1]]
 
-local animationId = 10468665991
+local animationId = 75626602507009
 
 
 local player = game.Players.LocalPlayer
@@ -139,7 +139,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://124246417314135"
+AnimAnim.AnimationId = "rbxassetid://108676694483888"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -168,7 +168,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 10466974800
+local animationId = 83344130628264
 
 
 local player = game.Players.LocalPlayer
@@ -197,7 +197,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://101313574318907"
+AnimAnim.AnimationId = "rbxassetid://119471423456217"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -226,7 +226,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 10471336737
+local animationId = 94333316380063
 
 
 local player = game.Players.LocalPlayer
@@ -255,7 +255,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://83344130628264"
+AnimAnim.AnimationId = "rbxassetid://120886759544270"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -291,7 +291,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 12510170988
+local animationId = 104204847285325
 
 
 local player = game.Players.LocalPlayer
@@ -319,7 +319,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://120886759544270"
+AnimAnim.AnimationId = "rbxassetid://16515850153"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -346,7 +346,7 @@ end
 
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
-local animationId = 15955393872
+local animationId = 119392462013136
 
 
 local player = game.Players.LocalPlayer
@@ -374,7 +374,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://104204847285325"
+AnimAnim.AnimationId = "rbxassetid://15943915877"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -402,7 +402,7 @@ end
 humanoid.AnimationPlayed:Connect(onAnimationPlayed)
 
 
-local animationId = 12447707844
+local animationId = 130316320079552
 
 
 local player = game.Players.LocalPlayer
